@@ -5,7 +5,8 @@ using namespace std;
 int main() {
   int n;
   scanf("%d", &n);
-
+  
+  //  memo[n] : n을 1로 만드는데 필요한 최소 연산
   int memo[n+1];
   memo[1] = 0;
   memo[2] = memo[3] = 1;
