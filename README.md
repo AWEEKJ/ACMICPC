@@ -1,4 +1,5 @@
-# Online Judge for Algorithm
+# My Own Algorithm Archive
 
-* Baekjoon Online Judge => https://www.acmicpc.net
-* Algospot => https://algospot.com/judge/problem/list/
+* [Baekjoon Online Judge](https://www.acmicpc.net) [@gkswn121](https://www.acmicpc.net/user/gkswn121)
+* [Hackerrank](https://www.hackerrank.com) [@gkswn121](https://www.hackerrank.com/gkswn121)
+
