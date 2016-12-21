@@ -1,6 +1,7 @@
 """
 Insertion Sort
-- Time Complexity is O(n^2).
+- Best Time Complexity is O(n) when array is already sorted.
+- Worst Time Complexity is O(n^2).
 - Space Complexity is O(1).
 """
 
@@ -11,6 +12,8 @@ def insertion_sort(arr):
         for j in range(i, 0, -1):
             if arr[j] < arr[j-1]:
                 arr[j], arr[j-1] = arr[j-1], arr[j]
+            else:
+                break
     return arr
 
 
