@@ -2,3 +2,7 @@
 .DS_Store
 .vscode
 base.py
+__pycache__
+.idea
+test.o
+test.c
